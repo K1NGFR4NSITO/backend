@@ -1,4 +1,4 @@
-import { getConnection } from '../database/db.js';
+/*import { getConnection } from '../database/db.js';
 
 // Crear o actualizar asistencia
 export const registrarAsistencia = async (req, res) => {
@@ -32,4 +32,4 @@ export const registrarAsistencia = async (req, res) => {
       console.error(error);
       return res.status(500).json({ message: 'Error al registrar la asistencia' });
   }
-};
+};*/
